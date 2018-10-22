@@ -1,4 +1,3 @@
-AIs Software
 
 What does it do?
 This programme runs the first python programme for generating tests, runs the second python programme for getting right answer, runs c++ programme which can give us wrong result, compares and finds bad tests for c++ programme.
